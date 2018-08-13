@@ -1,15 +1,15 @@
 ---
-layout: default
-title: Andrew Ferguson's Homepage
+title: Blah
 ---
 
 ### About Me
 
 Hi there! Welcome to my github page. My name is Andrew and I like to write code. 
 
-I have been developing professionally for several years now, but still find the need to take on personal projects. Occassionally those projects find their way into a git repo and stuffed here.
+I have been writing code professionally since 2013.
 
-My earliest (and ugliest) project was a program to cheat at the game Clue. It started at a party where some friends and I were playing Clue. My friend downloaded an app that promised to solve the game for him. It failed miserably. However, after watching that app fail, I was convinced it should be possible to solve the game programmatically. And the [ClueSolver](https://github.com/Onjrew/Clue-Solver) was born. I would love to revisit it soon and rewrite it in Python.
+My passion is to create performant, robust, well-tested programming solutions. I have a strong interest in clean, maintainable code.
 
-My latest project is actually this page/site itself. I have been looking for a more web-y project for a while now. On top of showcasing some of my projects I'd also like to try out Jekyll's blogging capability. 
+I like to help boost my teammates and contribute to their success while also thriving on their insights and critical feedback.
 
+I am always looking for opportunities to learn and gain experience with new technologies and toolsets. I would love to explore data-intensive challenges. 

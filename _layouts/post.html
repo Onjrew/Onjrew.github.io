@@ -8,15 +8,6 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/stylesheets/stylesheet.css">
 
-    <title>Andrew Ferguson's Homepage</title>
-
-    <style>
-     .post {
-         width: 80%;
-         max-width: 700px;
-     }
-    </style>
-
   </head>
 
   <body>
@@ -32,23 +23,23 @@
         </header>
     </div>
 
-    <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner post">
 
-          {{ content }}
-          
-      </section>
+      <article id="main_content" class="inner">
+        {{ content }}
+      </article>
     </div>
+      
+      <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+      </div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
-    </div>
-
-    
+    </div>    
 
   </body>
 </html>
