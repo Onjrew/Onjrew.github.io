@@ -1,10 +1,8 @@
 ---
-title: Blah
+title: About
 ---
 
-### About Me
-
-Hi there! Welcome to my github page. My name is Andrew and I like to write code. 
+My name is Andrew and I like to write code.
 
 I have been writing code professionally since 2013.
 
